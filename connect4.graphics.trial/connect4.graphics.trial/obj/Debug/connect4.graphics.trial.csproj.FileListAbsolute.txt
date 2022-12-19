@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\bin\Debug\connect4.graphics.trial.exe.config
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\bin\Debug\connect4.graphics.trial.exe
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\bin\Debug\connect4.graphics.trial.pdb
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.Properties.Resources.resources
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.exe
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.pdb
+C:\Users\Admin\source\repos\connect4.graphics.trial\connect4.graphics.trial\obj\Debug\connect4.graphics.trial.RedWins.resources
